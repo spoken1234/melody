@@ -48,7 +48,7 @@ header .menu_side, .song_side{
     height: 90%;
     /* border: 1px solid black; */
     background: #d8f9ff;
-    border-radius: 15px 0px 0px 0px;
+/*     border-radius: 15px 0px 0px 0px; */
     color: #000;
 }
 header .menu_side h6{
@@ -58,7 +58,7 @@ header .menu_side h6{
 header .song_side{
     width: 75%;
     background: #c1f1fe;
-    border-radius: 0px 15px 0px 0px;
+/*     border-radius: 0px 15px 0px 0px; */
 }
 /* Bottom side */
 header .master_play{
@@ -66,8 +66,8 @@ header .master_play{
     height: 10%;
     /* border: 1px solid black; */
     background: #d8f9ff;
-	box-shadow: 0 -10px 8px -12px #090f1f; 
-    border-radius: 0px 0px 15px 15px;
+    box-shadow: 0 -10px 8px -12px #090f1f; 
+/*     border-radius: 0px 0px 15px 15px; */
 }
 
 
